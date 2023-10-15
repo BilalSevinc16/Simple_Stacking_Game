@@ -1,16 +1,9 @@
-# simple_stacking_game
+# Simple Stacking Game
 
-A new Flutter project.
+Simple Stacking Game
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Stacking_Game/assets/146417248/f5371c02-cfb9-4f05-8e6a-d5b55e58db2e)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Stacking_Game/assets/146417248/2757eab6-f3c9-4df7-aba6-15f4bf3f9089)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/BilalSevinc16/Simple_Stacking_Game/assets/146417248/fd166224-c3f3-4ddf-8044-3e0c5c4b3586)
